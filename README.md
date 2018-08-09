@@ -1,0 +1,2 @@
+# squareroot
+plantilla wordpress
